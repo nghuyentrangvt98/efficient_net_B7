@@ -35,7 +35,7 @@ To run the notebook, you need the following libraries installed:
 6. tensorflow
 7. tqdm
 
-### You can install all required packages by running the first code block in the notebook.
+#### You can install all required packages by running the first code block in the notebook.
 
 ## Setup Instructions
 
